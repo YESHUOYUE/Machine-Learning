@@ -34,4 +34,9 @@ Training Set -> Learning Algorithm -> h(hypothesis) -> input dataset and estimat
 取θ_1的值，s.t. J(θ_0)最小
 
 ### while θ_0 != 0:
-Contour plots(等高线图)、contour figures(等高图像)
+![image](https://user-images.githubusercontent.com/116483698/209289872-41674aad-0c87-490e-9fb1-be1a8b4079e3.png)
+
+Contour plots(等高线图)/Contour figures(等高图像)
+![image](https://user-images.githubusercontent.com/116483698/209290251-27f8ddbc-4a6b-4283-82b1-cbb6149e0cb5.png)
+
+## Gradient descent(梯度下降法)
