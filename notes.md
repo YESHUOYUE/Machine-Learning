@@ -20,3 +20,15 @@ Notation:
 	x's = "input" variable/features
 	
 	y's = "output" variable/"target" variable
+	
+Training Set -> Learning Algorithm -> h(hypothesis) -> input dataset and estimated value
+
+## Cost Function
+线性回归方程 -> 拟合度越高越好
+
+平方误差代价函数
+![image](https://user-images.githubusercontent.com/116483698/209258523-af83fbfb-2044-4e3c-919e-0987be92d383.png)
+
+while θ_0 = 0:
+![image](https://user-images.githubusercontent.com/116483698/209258834-15fcfc33-a213-4781-bb0e-5f49da823586.png)
+取θ_1的值，s.t.J(θ_0)最小
