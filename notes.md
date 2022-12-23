@@ -40,3 +40,11 @@ Contour plots(等高线图)/Contour figures(等高图像)
 ![image](https://user-images.githubusercontent.com/116483698/209290251-27f8ddbc-4a6b-4283-82b1-cbb6149e0cb5.png)
 
 ## Gradient descent(梯度下降法)
+![image](https://user-images.githubusercontent.com/116483698/209291588-6b05496d-0c1b-439a-badb-74d313486f6f.png)
+![image](https://user-images.githubusercontent.com/116483698/209291938-52767aa4-4e67-4ed0-93b8-f1ba9017e500.png)
+### 局部最优解
+![image](https://user-images.githubusercontent.com/116483698/209293182-b643816c-921e-4f7c-9ba7-e7c4a47594b1.png)
+### Definition
+![image](https://user-images.githubusercontent.com/116483698/209293276-4f511605-091e-49f7-855a-b09b16584afd.png)
+- ':=' : assignment operation(赋值运算符)
+- 'α' : learning rate(学习率), control the velocity of gradient decent procedure
