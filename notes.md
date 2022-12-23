@@ -31,4 +31,4 @@ Training Set -> Learning Algorithm -> h(hypothesis) -> input dataset and estimat
 
 while θ_0 = 0:
 ![image](https://user-images.githubusercontent.com/116483698/209258834-15fcfc33-a213-4781-bb0e-5f49da823586.png)
-取θ_1的值，s.t.J(θ_0)最小
+取θ_1的值，s.t. J(θ_0)最小
