@@ -53,5 +53,9 @@ Contour plots(等高线图)/Contour figures(等高图像)
 ![image](https://user-images.githubusercontent.com/116483698/209418291-92c027af-64fd-4482-9040-543443005cf7.png)
 ### while θ_1 at a local optima:
 ![image](https://user-images.githubusercontent.com/116483698/209418373-8154bede-1a59-4431-a425-0384e04aeed0.png)
+![image](https://user-images.githubusercontent.com/116483698/209418424-06344905-d32f-45af-8681-f3a5a7a52524.png)
 
+## Gradient descent for linear regreassion
+> apply gradient descnet algorithm to Linear Regrassion Model
+![image](https://user-images.githubusercontent.com/116483698/209418584-0325f402-f356-4dc5-823c-41d5a3bd0b21.png)
 
