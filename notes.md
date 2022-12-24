@@ -15,7 +15,7 @@ Regression Problem: Predict real-value output.
 
 Notation:
 	
-	m = Number of **training examples**
+	m = Number of training examples
 	
 	x's = "input" variable/features
 	
@@ -64,3 +64,11 @@ Contour plots(等高线图)/Contour figures(等高图像)
 "Batch": Each step of gradient descent uses all the training examples.
 
 - normal equations methods
+
+# Linear Algebra review
+## Matrices and vectors
+**Matrix** : Rectangular array of numbers
+
+**Dimension of matrix** : number of rows times number of columns
+
+**Vector** : A n×1 matrix
