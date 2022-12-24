@@ -35,6 +35,7 @@ Training Set -> Learning Algorithm -> h(hypothesis) -> input dataset and estimat
 
 ### while θ_0 != 0:
 ![image](https://user-images.githubusercontent.com/116483698/209289872-41674aad-0c87-490e-9fb1-be1a8b4079e3.png)
+- convex function
 
 Contour plots(等高线图)/Contour figures(等高图像)
 ![image](https://user-images.githubusercontent.com/116483698/209290251-27f8ddbc-4a6b-4283-82b1-cbb6149e0cb5.png)
@@ -56,6 +57,10 @@ Contour plots(等高线图)/Contour figures(等高图像)
 ![image](https://user-images.githubusercontent.com/116483698/209418424-06344905-d32f-45af-8681-f3a5a7a52524.png)
 
 ## Gradient descent for linear regreassion
-> apply gradient descnet algorithm to Linear Regrassion Model
+- apply gradient descnet algorithm to Linear Regrassion Model
 ![image](https://user-images.githubusercontent.com/116483698/209418584-0325f402-f356-4dc5-823c-41d5a3bd0b21.png)
+![image](https://user-images.githubusercontent.com/116483698/209418637-0c26b2d2-0fb4-4804-939a-8c776ada6a90.png)
+### "Batch"Gradient Descent
+"Batch": Each step of gradient descent uses all the training examples.
 
+- normal equations methods
