@@ -48,3 +48,10 @@ Contour plots(等高线图)/Contour figures(等高图像)
 ![image](https://user-images.githubusercontent.com/116483698/209293276-4f511605-091e-49f7-855a-b09b16584afd.png)
 - ':=' : assignment operation(赋值运算符)
 - 'α' : learning rate(学习率), control the velocity of gradient decent procedure
+
+## Gradient descent intuition
+![image](https://user-images.githubusercontent.com/116483698/209418291-92c027af-64fd-4482-9040-543443005cf7.png)
+### while θ_1 at a local optima:
+![image](https://user-images.githubusercontent.com/116483698/209418373-8154bede-1a59-4431-a425-0384e04aeed0.png)
+
+
