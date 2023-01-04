@@ -48,8 +48,8 @@ Base URLs:http://192.168.119.179:5000/(add/search/delete/modify)
 
 ```json
 {
-  msg="successful",
-  data=""
+  "msg":"successful",
+  "data":""
 }
 ```
 
