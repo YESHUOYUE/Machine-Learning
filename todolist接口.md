@@ -33,11 +33,6 @@ Base URLs:http://192.168.119.179:5000/(add/search/delete/modify)
 POST /add
 
 > Body 请求参数
-
-```json
-{}
-```
-
 ### 请求参数
 
 |名称|位置|类型|必选|说明|
@@ -55,7 +50,7 @@ POST /add
 > 200 Response
 
 ```json
-{}
+{msg="successful",data=""}
 ```
 
 ### 返回结果
