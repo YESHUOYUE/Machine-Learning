@@ -29,9 +29,6 @@ Base URLs:http://192.168.119.179:5000/(add/search/delete/modify)
 # Default
 
 ## POST todolist
-
-POST /add
-
 > Body 请求参数
 ### 请求参数
 
