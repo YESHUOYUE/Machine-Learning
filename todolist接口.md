@@ -47,7 +47,10 @@ Base URLs:http://192.168.119.179:5000/(add/search/delete/modify)
 > 200 Response
 
 ```json
-{msg="successful",data=""}
+{
+msg="successful",
+data=""
+}
 ```
 
 ### 返回结果
