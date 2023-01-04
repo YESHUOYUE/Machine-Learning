@@ -1,5 +1,5 @@
 ---
-title: 个人项目 v1.0.0
+title: todolist v1.0.0
 language_tabs:
   - shell: Shell
   - http: HTTP
@@ -19,7 +19,7 @@ generator: "@tarslib/widdershins v4.0.17"
 
 ---
 
-# 个人项目
+# todolist接口
 
 > v1.0.0
 
