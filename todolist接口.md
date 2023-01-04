@@ -20,10 +20,9 @@ generator: "@tarslib/widdershins v4.0.17"
 ---
 
 # todolist接口
-
-> v1.0.0
-
-Base URLs:
+HTTP/1.1 200 ok
+Content-Type: application/json
+Base URLs:http://192.168.119.179:5000/(add/search/delete/modify)
 
 # Default
 
