@@ -71,4 +71,4 @@ Contour plots(等高线图)/Contour figures(等高图像)
 
 **Dimension of matrix** : number of rows times number of columns
 
-**Vector** : A n×1 matrix
+**Vector** : An n×1 matrix
